@@ -1,0 +1,3 @@
+Convolution_without_pipeline : 2000ps
+Convolution_with_pipeline : 675ps
+Convolution_optimize: 675ps 
